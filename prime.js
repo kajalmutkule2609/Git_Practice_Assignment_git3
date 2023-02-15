@@ -11,4 +11,4 @@ console.log("Prime");
 }
 else{
 console.log("Not Prime");
-
+}
