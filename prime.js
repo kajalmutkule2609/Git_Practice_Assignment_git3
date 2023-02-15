@@ -6,11 +6,9 @@ if(num%i==0)
 temp++;
 }
 }
-if(temp==0)
-{
-console.log("This is a Prime number");
+if(temp==0){
+console.log("Prime");
 }
-else
-{
-console.log("This is not a Prime number");
-}
+else{
+console.log("Not Prime");
+
