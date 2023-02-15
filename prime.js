@@ -6,8 +6,8 @@ temp++;
 }
 }
 if(temp==0){
-console.log("Not Prime");
+console.log("Prime");
 }
 else{
-console.log("Prime");
+console.log("Not Prime");
 }
